@@ -31,3 +31,5 @@ docker-compose down -v
 
 ## 📌 Swagger
 * http://localhost:8080/swagger-ui/index.html
+
+<img src="https://github.com/rasitesdmr/springboot-docker-elasticsearch/blob/master/image/es2.jpeg">
