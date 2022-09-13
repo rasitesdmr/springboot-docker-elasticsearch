@@ -1,8 +1,8 @@
-# Elasticsearch ? 
+# 🎯 Elasticsearch  
 
 <img src = "https://github.com/rasitesdmr/springboot-docker-elasticsearch/blob/master/image/es1.jpg">
 
-## docker-compose.yaml
+## 📌 docker-compose.yaml
 
 ```yaml
 docker-compose up --build -d
@@ -11,7 +11,7 @@ docker-compose up --build -d
 docker-compose down -v
 ```
 
-## Elasticsearch Maven Dependencies
+## 📌 Elasticsearch Maven Dependencies
 
 ```xml
 <dependency>
