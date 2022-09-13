@@ -20,3 +20,14 @@ docker-compose down -v
     <version>4.0.0.RELEASE</version>
 </dependency>
 ```
+
+## 📌 Elasticsearch Service
+* http://localhost:9200 
+* http://localhost:9200/users/_settings
+* http://localhost:9200/users/_search?pretty=true&q=*:*
+
+## 📌 Services
+* http://localhost:8080/user/{search}
+
+## 📌 Swagger
+* http://localhost:8080/swagger-ui/index.html
